@@ -1,0 +1,1 @@
+document.write("Ok!!, I am externally but working as internal javascript");
